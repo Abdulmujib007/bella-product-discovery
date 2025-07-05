@@ -58,21 +58,21 @@ The app should now be running at http://localhost:5173 by default.
 2hours 45minutes
 
 ## What’s Working:
--Fully functional logic from question to personalized product result
--Responsive design for mobile and desktop
--Visuals and tone align with Bella Otér’s brand aesthetics
--Custom SVG icon and smooth UX transitions
--Bonus feature: saved selection + welcome back message
+- Fully functional logic from question to personalized product result
+- Responsive design for mobile and desktop
+- Visuals and tone align with Bella Otér’s brand aesthetics
+- Custom SVG icon and smooth UX transitions
+- Bonus feature: saved selection + welcome back message
 
 ## 🚀 What I’d Add with More Time 
--Introduce a lightweight animation or visual transition when switching between question and product views
--Use actual product images or themed illustrations instead of placeholders for visual richness
--Add more detailed archetype data, such as mood, style, or additional tags
--Implement a soft intro screen or loader to enhance brand storytelling
--Optionally break up the product section into a multi-step quiz experience for added depth
+- Introduce a lightweight animation or visual transition when switching between question and product views
+- Use actual product images or themed illustrations instead of placeholders for visual richness
+- Add more detailed archetype data, such as mood, style, or additional tags
+- Implement a soft intro screen or loader to enhance brand storytelling
+- Optionally break up the product section into a multi-step quiz experience for added depth
 
 ## Contact
-You can reach me at: mujibasiyanbi@gmail.com
+You can reach me at- mujibasiyanbi@gmail.com
 
 ## Author
 Asiyanbi Abdulmujib
